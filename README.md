@@ -14,7 +14,7 @@ CMPC (Continuous Measurement of Photocurrent) is a continous measurement of resi
 ## Data Processing
 1. Open Terminal or PowerShell, and `cd` to your working directory.
 2. Prepare your CMPC data (e.g., data.csv) in *your_data_directory*.
-3. Run `python PAPPIS/main.py your_data_directory/data.csv`.
+3. Run `python PAPPIS/run.py your_data_directory/data.csv`.
 4. That's it! You will receive an Excel file with time-averaging data.
 
 
@@ -22,11 +22,11 @@ CMPC (Continuous Measurement of Photocurrent) is a continous measurement of resi
 You can use any IDE (Integrated Development Environment) or simply Notebook (記事本) to edit the Python file. Here, we recommend VScode: https://code.visualstudio.com.
 
 CMPC has 20-s and 50-s time span option. You can uncommand one of each as shown below to match the parameters in data processing.
-> 50-s (Default)  
+> Time span: 50-s (Default)  
 > <pre><code>t_on, t_off, t_space, fpk_space = 0, 40, 5, 1300
 > #t_on, t_off, t_space, fpk_space = 0, 16, 2, 3500</pre></code>
 
-> 20-s
+> Time span: 20-s
 > <pre><code>#t_on, t_off, t_space, fpk_space = 0, 40, 5, 1300
 > t_on, t_off, t_space, fpk_space = 0, 16, 2, 3500</pre></code>
 
