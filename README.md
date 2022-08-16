@@ -16,7 +16,7 @@ Note: If you are interested in this program and want to contributed to our proje
 ## Data Processing
 1. Open Terminal or PowerShell, and `cd` to your working directory.
 2. Prepare your CMPC data (e.g., data.csv) in *your_data_directory*.
-3. Run `python PAPPIS/run.py your_data_directory/data.csv`.
+3. Run `python PAPPIS/run.py your_data_directory`.
 4. That's it! You will receive an Excel file with time-averaging data.
 
 
