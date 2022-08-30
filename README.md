@@ -5,7 +5,7 @@ CMPC (Continuous Measurement of Photocurrent) is a continous measurement of resi
 1. Download **Python** from the official website: https://www.python.org/downloads/
 2. (Option 1) Download **Git** from the official website: https://git-scm.com/downloads ; (Option 2) Go to Code button, download .zip file.
 3. For Mac users, open Terminal (終端機). For Windows users, open PowerShell.
-4. Run `pip3 install pandas` and `pip3 stall scipy`.
+4. Run `pip3 install pandas`, `pip3 install scipy` and `pip3 install openpyxl`.
 5. Type in `pwd` in the command line to check your current working directory. Remember it!
 6. To change your current working directory, use `cd another_location`. It would be helpful to run `ls` to find out what you have under this working directory.
 7. (Option 1) Run <code>git clone https://github.com/alwin1031/PAPPIS.git</code>. The processing file will be downloaded in your current working directory. (Option 2) Move the entire code to your current working directory.
