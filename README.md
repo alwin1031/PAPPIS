@@ -1,7 +1,7 @@
 # PAPPIS
 CMPC (Continuous Measurement of Photocurrent) is a biomolecular level resistence change measuring technique based on the LV-ITO device. Those who have performed CMPC experiments must continue to perform data processing to receive comparable results. The data processing method is described below.
 
-## Quick Startup
+## Quick Setup
 1. Go to Code button, download .zip file.
 2. Download **Python** from the official website: https://www.python.org/downloads
 3. For Mac users, open Terminal. For Windows users, open PowerShell.
