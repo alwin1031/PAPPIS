@@ -21,7 +21,7 @@ CMPC (Continuous Measurement of Photocurrent) is a biomolecular level resistence
 7. Run <code>git clone https://github.com/alwin1031/PAPPIS.git</code>. The processing file will be downloaded in your current working directory.
 8. You can always restore the code by repeating Step 6 in your working directory.
 
-Note: If you are interested in this program and want to contributed to our project, we highly recommend you to download git and forge this version under your own account.
+Note: If you are interested in this program and want to contributed, we highly recommend you to download git and forge this version under your own account.
 
 
 ## Data Processing
