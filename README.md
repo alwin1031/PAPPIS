@@ -34,8 +34,8 @@ User
      | -- PAPPIS
      |    | -- Python file
      |
-     | -- Data directory
-     |    | -- your data here
+     | -- Data directory   (work_001)
+     |    | -- your data here   (data_001.csv)
      |
      | -- Excel output file
 </pre>
